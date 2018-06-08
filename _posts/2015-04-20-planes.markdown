@@ -1,5 +1,5 @@
 ---
-title: Planes are cool!
+title: Planes are cool and fun!
 subtitle: The Fly!
 author: Wferr
 avatar: img/authors/wferr.png
