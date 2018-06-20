@@ -1,14 +1,16 @@
 ---
-title:  "Un travail artisanal"
-subtitle: "Je mesure, coupe, couds"
-author: "Nadège"
-avatar: "img/authors/nadege.jpg"
-image: "img/couture.jpg"
-date:   2018-05-25 12:12:12
+title: Un travail artisanal
+subtitle: 'Je mesure, coupe, couds'
+author: Nadège
+avatar: img/authors/nadege.jpg
+image: img/couture.jpg
+date: {}
+published: true
 ---
 
 ### Dolor sit amet?
-C'est pas facile
+C'est pas facile jshjhsjdhsj 
+
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
