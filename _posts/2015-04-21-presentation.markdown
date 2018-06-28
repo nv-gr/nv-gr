@@ -3,7 +3,7 @@ title:  "Présentation"
 subtitle: "L'atelier NV Couture"
 author: "Nadège"
 avatar: "img/authors/nadege.jpg"
-image: "img/presentation.jpg"
+image: "img/cover/presentation.jpg"
 date:   2018-06-21 12:12:12
 published: true
 ---

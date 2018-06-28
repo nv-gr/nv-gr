@@ -3,7 +3,7 @@ title: Portofolio
 subtitle: 'GRS'
 author: Nadège
 avatar: img/authors/nadege.jpg
-image: img/logo.jpg
+image: img/cover/portofolio.jpg
 date: 2018-06-18T00:00:00.000Z
 published: true
 ---
