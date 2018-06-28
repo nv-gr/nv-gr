@@ -10,7 +10,7 @@ published: true
 Bienvenu à L'Atelier d'NV création !!
 ====
  
-PHOTO
+![](img/covers/logo.jpg)
  
  
 Tous les devis quitteront l'atelier à partir du 1er juillet 2018 . En attendant n’hésitez pas à  me contacter ou me suivre sur la Page facebook et instagram.
