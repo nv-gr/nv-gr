@@ -2,8 +2,8 @@
 title: Actualité
 subtitle: Actualités récentes
 author: Nadège
-avatar: img/authors/wferr.png
-image: img/a.jpg
+avatar: img/authors/nadege.png
+image: img/actus.jpg
 date: 2018-06-18T00:00:00.000Z
 published: true
 ---
@@ -16,7 +16,9 @@ PHOTO
 Tous les devis quitteront l'atelier à partir du 1er juillet 2018 . En attendant n’hésitez pas à  me contacter ou me suivre sur la Page facebook et instagram.
  
  
-REMERCIMENTS
+REMERCIEMENTS
+----
+
  
 Je tiens à remercier Nicolas Zozol de [Robusta Code](http://www.robusta.io) pour la création de ce site. 
 Les Photographes pour leurs magnifiques photos : [Nguyen Photographies](http://www.ngtuan.com) , [Cybile C. Photography](https://www.facebook.com/Cybile-C-Photography-246675958701076/).
