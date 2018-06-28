@@ -1,5 +1,5 @@
 ---
-title: Un travail artisanal
+title: Un travail artisanal test
 subtitle: 'Je mesure, coupe, couds'
 author: Nadège
 avatar: img/authors/nadege.jpg
