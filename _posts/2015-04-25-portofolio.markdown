@@ -12,18 +12,18 @@ published: true
 
 Quelques exemples de créations
 
-[](img/atelier/a.jpg)
+![](img/atelier/a.jpg)
 
-[](img/atelier/b.jpg)
+![](img/atelier/b.jpg)
 
-[](img/competition/a.jpg)
+![](img/competition/a.jpg)
 
-[](img/atelier/c.jpg)
+![](img/atelier/c.jpg)
 
-[](img/competition/b.jpg)
+![](img/competition/b.jpg)
 
-[](img/atelier/d.jpg)
+![](img/atelier/d.jpg)
 
-[](img/atelier/e.jpg)
+![](img/atelier/e.jpg)
 
-[](img/competition/c.jpg)
+![](img/competition/c.jpg)
