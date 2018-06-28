@@ -3,7 +3,7 @@ title:  "Mentions légales"
 subtitle: ""
 author: "Nadège"
 avatar: "img/authors/nadege.jpg"
-image: "img/cover/legal.jpg"
+image: "img/covers/legal.jpg"
 date:   2015-04-23 12:12:12
 ---
 

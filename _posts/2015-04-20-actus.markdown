@@ -3,7 +3,7 @@ title: Actualité
 subtitle: ""
 author: Nadège
 avatar: img/authors/nadege.jpg
-image: img/cover/actus.jpg
+image: img/covers/actus.jpg
 date: 2018-06-18T00:00:00.000Z
 published: true
 ---
