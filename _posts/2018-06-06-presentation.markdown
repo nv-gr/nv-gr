@@ -4,7 +4,7 @@ subtitle: "L'atelier NV Couture"
 author: "Nadège"
 avatar: "img/authors/nadege.jpg"
 image: "img/covers/presentation.jpg"
-date:   2018-06-21 12:12:12
+date:   2018-06-06 12:12:12
 published: true
 ---
 
