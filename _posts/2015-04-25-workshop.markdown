@@ -4,7 +4,7 @@ subtitle: 'Je mesure, coupe, couds'
 author: Nadège
 avatar: img/authors/nadege.jpg
 image: img/couture.jpg
-date: {}
+date: CURRENT_DATETIME
 published: true
 ---
 
