@@ -1,6 +1,6 @@
 ---
 title: Portofolio
-subtitle: 'GRS'
+subtitle: GRS
 author: Nadège
 avatar: img/authors/nadege.jpg
 image: img/covers/portofolio.jpg
@@ -13,8 +13,6 @@ published: true
 Quelques exemples de créations
 
 ![](img/atelier/a.jpg)
-
-![](img/atelier/b.jpg)
 
 ![](img/competition/a.jpg)
 
