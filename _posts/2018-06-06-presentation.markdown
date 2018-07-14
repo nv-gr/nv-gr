@@ -23,16 +23,16 @@ Une tenue n'est pas qu'un simple morceau de tissu, mais bien plus que ça. Crée
  
 #### Tout projet à une histoire !!!.....
  
-* 2013 : Je couds mon premier justaucorps pour mes filles et depuis je n'ai plus arrêté.
-* 2017 : A été une année difficile marqué par un drame familial. C'est les deux genoux à terre que j'ai décidé de me relever et de changer de Vie. 
-* Fin 2017 j'ai quitté mon travail pour devenir la personne que j'ai toujours voulu être.
+* **2013** : Je couds mon premier justaucorps pour mes filles et depuis je n'ai plus arrêté.
+* **2017** : A été une année difficile marqué par un drame familial. C'est les deux genoux à terre que j'ai décidé de me relever et de changer de Vie. 
+* **Fin 2017** :: J'ai quitté mon travail pour devenir la personne que j'ai toujours voulu être.
  
  
 *La plus grande gloire dans la Vie ne réside pas dans le fait de ne jamais tomber, mais dans celui de se relever à chaque fois que nous tombons* _ Nelson Mandela
  
  
-* Mai 2018 : Alors que je portais seule mon projet de création le destin ma déposé devant la porte d'un organisme d'aide à la création de projet (BGE Auvergne). Et là mon projet à considérablement décollé. Porter et soutenu par toute une équipe d'accompagnants et de porteurs de projet comme moi. Merci Lydie, ma conseillère, d'avoir cru en moi.
-* Juin 2017 : J'hésite toujours sur mon statut. On me parle de la couveuse d'entreprise mais sans grande conviction mais je suis curieuse et je m'informe.
+* **Mai 2018** : Alors que je portais seule mon projet de création le destin ma déposé devant la porte d'un organisme d'aide à la création de projet (BGE Auvergne). Et là mon projet à considérablement décollé. Porter et soutenu par toute une équipe d'accompagnants et de porteurs de projet comme moi. Merci Lydie, ma conseillère, d'avoir cru en moi.
+* **Juin 2017** : J'hésite toujours sur mon statut. On me parle de la couveuse d'entreprise mais sans grande conviction mais je suis curieuse et je m'informe.
 
 J'en parle à une comptable qui me fait réaliser l’opportunité de la couveuse. Tester mon activité en toute sécurité en bénéficiant d'un accompagnement. Je décide de signer avec l'organisme COAGIR COSERVIR COBATIR et de donner une chance à mon activité de grandir et perdurer. A ma sortie de la couveuse, je saurais exactement quel chemin emprunter.
  
