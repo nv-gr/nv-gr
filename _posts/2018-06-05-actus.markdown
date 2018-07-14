@@ -16,11 +16,12 @@ Bienvenu à L'Atelier d'NV création !!
 Tous les devis quitteront l'atelier à partir du 1er juillet 2018 . En attendant n’hésitez pas à  me contacter ou me suivre sur la Page facebook et instagram.
  
  
-REMERCIEMENTS
+Remerciements
 ----
 
  
 Je tiens à remercier Nicolas Zozol de [Robusta Code](http://www.robusta.io) pour la création de ce site. 
+
 Les Photographes pour leurs magnifiques photos : [Nguyen Photographies](http://www.ngtuan.com) , [Cybile C. Photography](https://www.facebook.com/Cybile-C-Photography-246675958701076/).
  
  
@@ -28,6 +29,5 @@ Les Photographes pour leurs magnifiques photos : [Nguyen Photographies](http://w
 Mes liens de réseaux sociaux
 ----
  
-Facebook : https://www.facebook.com/ateliernvcreation/
- 
-Instagram :https://www.instagram.com/atelier.nvcreation/
+* Facebook : <a href="https://www.facebook.com/ateliernvcreation">https://www.facebook.com/ateliernvcreation</a>
+* Instagram : <a href="https://www.instagram.com/atelier.nvcreation">https://www.facebook.com/ateliernvcreation</a>
