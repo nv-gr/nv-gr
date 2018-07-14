@@ -10,21 +10,18 @@ date:   2018-06-02 12:12:12
 Contact
 =====
 
+
+Contacts :
+ 
+* Email : <a href="mail:atelier.nvcreation@gmail.com">atelier.nvcreation@gmail.com</a>       
+* Téléphone : <a href="tel:+33979086946">+33(0)979086946</a>
+* Du lundi au vendredi de 9h à 13h
+
 Adresse :
-
-
-<div class="no-bullet">
 
 * L'atelier d'NV Création
 * Mme VAZEILLE Nadège
 * 11 rue Adrien Pennet
 * 03800 GANNAT
-</div>
 
 
-Email : atelier.nvcreation@gmail.com          
-
-
-Téléphone : <a href="tel:+33979086946">+33(0)979086946</a>
-
-Du lundi au vendredi de 9h à 13h
