@@ -11,3 +11,7 @@ article li{
     font-size: 1em;
     padding: 0 0 1em 0;
 }
+
+article img{
+    max-width: 700px;
+}
