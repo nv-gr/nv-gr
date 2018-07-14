@@ -1,0 +1,7 @@
+article .with-bullet li{
+    list-style: initial;
+}
+
+article li{
+    list-style: initial;
+}

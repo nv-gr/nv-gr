@@ -12,10 +12,14 @@ Contact
 
 Adresse :
 
-L'atelier d'NV Création
-Mme VAZEILLE Nadège
-11 rue Adrien Pennet
-03800 GANNAT
+
+<div class="no-bullet">
+
+* L'atelier d'NV Création
+* Mme VAZEILLE Nadège
+* 11 rue Adrien Pennet
+* 03800 GANNAT
+</div>
 
 
 Email : atelier.nvcreation@gmail.com          
