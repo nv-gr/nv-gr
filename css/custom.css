@@ -3,5 +3,10 @@ article .with-bullet li{
 }
 
 article li{
-    list-style: initial;
+    list-style: none;
+}
+
+.card__copy.card__copy p:first-of-type {
+    font-size: 1em;
+    padding: 0 0 1em 0;
 }
