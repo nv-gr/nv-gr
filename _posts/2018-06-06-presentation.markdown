@@ -11,8 +11,7 @@ published: true
 Présentation
 =====
  
-L'atelier d'NV couture s'est moi ! Nadège Vazeille
-Un concentré hyper actif avec une touche de folie dans 1M55.
+L'Atelier d'NV Création s'est moi ! Nadège Vazeille. Un concentré hyper actif avec une touche de folie dans 1M55.
  
 *La vie est une aventure audacieuse ou n'est rien*  : _ Helen Keller
  

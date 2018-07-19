@@ -7,19 +7,20 @@ image: img/covers/actus.jpg
 date: 2018-06-05T00:00:00.000Z
 published: true
 ---
-Bienvenue à L'Atelier d'NV création !!
+Bienvenue à L'Atelier d'NV Création !!
 ====
  
 Pour les demandes de confection pour la saison individuelle, [contactez-moi](/#/2018/06/02/contacts) pour vérifier mes diponibilités.
 
 Pour les demandes de devis pour les équipes, vous pouvez dès à présent [me contacter](/#/2018/06/02/contacts).
+
  
-![](img/covers/logo.jpg)
- 
- 
-Tous les devis quitteront l'atelier à partir du 1er juillet 2018 . En attendant n’hésitez pas à me [contacter](/#/2018/06/02/contacts) ou me
- suivre sur la Page [Facebook](https://www.facebook.com/ateliernvcreation) et [Instagram](https://www.instagram.com/atelier.nvcreation).
- 
+Agenda Stands
+====
+
+Le 10 février 2010 L'atelier d'NV Création saura présent au championnat départemental de GR ensembles à [Bellerive-sur-
+Allier](http://auvergne-rhone-alpes.ffgym.fr/Evenements/GR-Competition-Inter-dep-OUEST-Individuels-Perf-TF-TR). 
+
  
 Remerciements
 ----
