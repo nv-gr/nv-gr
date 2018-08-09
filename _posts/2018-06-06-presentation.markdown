@@ -1,6 +1,6 @@
 ---
 title:  "Présentation"
-subtitle: "L'atelier NV Couture"
+subtitle: "L'atelier NV Création"
 author: "Nadège"
 avatar: "img/authors/nadege.jpg"
 image: "img/covers/presentation.jpg"

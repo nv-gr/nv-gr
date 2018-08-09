@@ -12,16 +12,34 @@ published: true
 
 Quelques exemples de créations
 
-![](img/atelier/a.jpg)
+![](img/portofolio/anaelle.jpg)
 
-![](img/competition/a.jpg)
+![](img/portofolio/anais.jpg)
 
-![](img/atelier/c.jpg)
+![](img/portofolio/astride.jpg)
 
-![](img/competition/b.jpg)
+![](img/portofolio/aurelie.jpg)
 
-![](img/atelier/d.jpg)
+![](img/portofolio/duo-de-coeur.jpg)
 
-![](img/atelier/e.jpg)
+![](img/portofolio/enola-2012.jpg)
 
-![](img/competition/c.jpg)
+![](img/portofolio/enola-2015.jpg)
+
+![](img/portofolio/enola-2017.jpg)
+
+![](img/portofolio/enola-corde.jpg)
+
+![](img/portofolio/enola-main-libre.jpg)
+
+![](img/portofolio/equipe-acro.jpg)
+
+![](img/portofolio/lola.jpg)
+
+![](img/portofolio/lucie.jpg)
+
+![](img/portofolio/maelys.jpg)
+
+![](img/portofolio/pole-acro.jpg)
+
+![](img/portofolio/zoe.jpg)

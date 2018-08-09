@@ -30,7 +30,5 @@ Prestataire :
 * Email : atelier.nvcreation@gmail.com
 
 
-L'activité de Nadège Vazeille est régie par les dispositions du CAPE ( Contrat d'Appui au Projet d'Entreprise)loi n°2003-721 du 1er Août 2003 sous couveuse COAGIR du 01/07/18 au 30/06/19
-
 Le site est maintenu par [Robusta Code](http://www.robusta.io) et hébergé sur Github.io
 
