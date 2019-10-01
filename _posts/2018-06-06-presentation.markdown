@@ -30,13 +30,13 @@ Je suis heureuse de partager avec vous ce monde magique de la création. Une ten
  
  
 * **Mai 2018** : Alors que je portais seule mon projet de création le destin ma déposé devant la porte d'un organisme d'aide à la création de projet (BGE Auvergne). Et là mon projet à considérablement décollé. Porter et soutenu par toute une équipe d'accompagnants et de porteurs de projet comme moi. Merci Lydie, ma conseillère, d'avoir cru en moi.
-* **Juin 2017** : J'hésite toujours sur mon statut. On me parle de la couveuse d'entreprise mais sans grande conviction mais je suis curieuse et je m'informe.
+* **Juin 2018** : J'hésite toujours sur mon statut. On me parle de la couveuse d'entreprise mais sans grande conviction mais je suis curieuse et je m'informe.
 
 J'en parle à une comptable qui me fait réaliser l’opportunité de la couveuse. Tester mon activité en toute sécurité en bénéficiant d'un accompagnement. Je décide de signer avec l'organisme COAGIR COSERVIR COBATIR et de donner une chance à mon activité de grandir et perdurer. A ma sortie de la couveuse, je saurais exactement quel chemin emprunter.
  
 A suivre.......
 
-Je tiens à remercier mon Mari et  mes filles de m 'avoir pousser à me lancer.
+Je tiens à remercier mon Mari et  mes filles de m 'avoir poussées à me lancer.
 
 Merci à toi [Nicolas Zozol](http://www.robusta.io), pour ce site internet magnifique. Merci à Cathy et Marc Pontonnier , Dolores Guernon et ma famille, d'avoir toujours été là pour me soutenir et d'avoir cru en moi, je vous en suis reconnaissante... Je vous aime fort!
  
