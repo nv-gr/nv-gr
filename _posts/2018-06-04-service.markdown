@@ -37,7 +37,7 @@ Un formulaire pour la demande de Devis sera disponible sur demande. Il comprend 
 
 ![Gamme Performance](img/gammes/gamme-performance.jpg)
 
-**les modèles de la gamme Compétition** sont des modèles uniques réalisés sur mesure à partir de vos idées,   du thème musical de votre composition et de votre Budget. Pour une base, **pour une base,création à partir de 150€ ttc** *
+**les modèles de la gamme Compétition** sont des modèles uniques réalisés sur mesure à partir de vos idées,   du thème musical de votre composition et de votre Budget.  **Pour une base,création à partir de 150€ ttc** *
 
 ![Gamme Competition](img/gammes/gamme-competition.jpg)
 
