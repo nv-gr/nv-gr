@@ -31,7 +31,7 @@ Un formulaire pour la demande de Devis sera disponible sur demande. Il comprend 
  
 TARIFS
   ====
- ***Devis:
+ **Devis:**
  
 • **25€** - Devis simple sans création de croquis*, envoi d'échantillons par courrier et un ou
 plusieurs rendez-vous téléphonique ou visio . (* la demande de copie,même partiel sera refusé)
