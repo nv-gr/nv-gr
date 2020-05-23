@@ -31,6 +31,8 @@ Un formulaire pour la demande de Devis sera disponible sur demande. Il comprend 
  
 TARIFS
 ====
+
+
   Les tarifs présentés ci-dessous sont des prix de départ. Pour un prix de confection , il est nécessaire de passer par un travail de devis personnalisé.
   
 **Devis**:
