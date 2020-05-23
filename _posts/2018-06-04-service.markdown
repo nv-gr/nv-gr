@@ -1,6 +1,6 @@
 ---
 title:  CONFECTION
-subtitle: ""
+subtitle: Création sur mesure
 author: "Nadège"
 avatar: "img/authors/nadege.jpg"
 image: "img/covers/service.jpg"
