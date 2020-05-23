@@ -101,4 +101,5 @@ Un acompte de 50% sera demandé par retour avec le devis signé et le solde deva
 
  *Acompte non-remboursable en cas d'annulation du client.
  
- **[Contactez l'atelier](/#/2018/06/02/contacts) pour demander le formulaire de Devis.
+ [Contactez l'atelier](/#/2018/06/02/contacts) pour demander le formulaire de Devis.
+ ===
