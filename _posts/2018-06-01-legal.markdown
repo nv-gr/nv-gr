@@ -25,6 +25,15 @@ Mentions légales
 
 * Responsable de la rédaction: Vazeille Nadège
 
+Collecte de donnée:
+---
+Toutes les informations récoltées vous concernant, sont uniquement destinées à des fins de communication avec L'atelier d'NV création. Nous n'utilisons pas vos données personnelles à des fins de commercialisation.
+
+Droit de propiété intellectuelle:
+---
+Vazeille Nadège est propriétaire des droits de propriété intellectuelle et détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes,images,photos,logos. Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Nadège vazeille à atelier.nvcreation@gmail.com
+Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.
+
 
 
 Le site est maintenu par [Robusta Code](http://www.robusta.io) et hébergé sur Github.io
