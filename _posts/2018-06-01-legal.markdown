@@ -16,7 +16,7 @@ Mentions légales
 * raison sociale : L'Atelier d'NV création
 * Forme juridique:  Micro entreprise non assujettie à la TVA
 * Adresse sociale: 11 Rue Adrien Pennet, 03800 Gannat (France)
-* Siret: 884 428 038 00019   APE:1419Z
+* Siret: 884 428 038 00019       APE:1419Z
 * N° D'immatriculation au répertoire des métiers (RM): 884 428 038 RM 03
 * N°TVA: TVA non applicable, article 293 B du CGI 
 * tel: 09 79 08 69 46
